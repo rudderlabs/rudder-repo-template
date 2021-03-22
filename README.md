@@ -24,7 +24,7 @@ Questions? Please join our [Slack channel](https://resources.rudderstack.com/joi
 
 # License
 
-RudderStack \*\* software name \*\* is released under the [AGPLv3 License][agplv3_license].
+RudderStack \*\* software name \*\* is released under the [MIT License][mit_license].
 
 # Contribute
 
@@ -60,6 +60,7 @@ We would love to see you contribute to RudderStack. Get more information on how 
 [rudderstack-blog]: https://rudderstack.com/blog/
 [hackernews]: https://news.ycombinator.com/item?id=21081756
 [producthunt]: https://www.producthunt.com/posts/rudderstack
+[mit_license]: https://opensource.org/licenses/MIT
 [agplv3_license]: https://www.gnu.org/licenses/agpl-3.0-standalone.html
 [sspl_license]: https://www.mongodb.com/licensing/server-side-public-license
 [config-generator]: https://github.com/rudderlabs/config-generator
