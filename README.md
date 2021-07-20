@@ -1,7 +1,8 @@
-<p align="center"><a href="https://rudderstack.com"><img src="https://raw.githubusercontent.com/rudderlabs/rudder-server/master/resources/RudderStack.png" alt="RudderStack - An Open Source Customer Data Platform" height="90"/></a></p>
+<p align="center"><a href="https://rudderstack.com"><img src="https://user-images.githubusercontent.com/59817155/126267034-ae9870b7-9137-4f45-be65-d621b055a972.png" alt="RudderStack - Customer Data Platform for Developers" height="50"/></a></p>
 <h1 align="center"></h1>
-<p align="center"><b>The warehouse-first customer data pipeline built for devs</b></p>
+<p align="center"><b>Customer Platform for Developers</b></p>
 <br/>
+
 
 # \*\* Repo Name \*\*
 
