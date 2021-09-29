@@ -9,15 +9,15 @@
 \*\* Repo description \*\*
 |:------|
 
-Questions? Please join our [Slack channel](https://resources.rudderstack.com/join-rudderstack-slack) or read about us on [Product Hunt](https://www.producthunt.com/posts/rudderstack).
+> Questions? Start a conversation on our [**Slack channel**][slack].
 
 # Why Use \*\* Software Name \*\*
 
-\*\* Describe what software does. \*\*
+\*\* Describe what the software does. \*\*
 
 # Key Features
 
-\*\* Describe key features, if necessary. \*\*
+\*\* Describe the key features, if necessary. \*\*
 
 # Get Started
 
@@ -25,34 +25,27 @@ Questions? Please join our [Slack channel](https://resources.rudderstack.com/joi
 
 # License
 
-RudderStack \*\* software name \*\* is released under the [MIT License][mit_license].
+The RudderStack \*\* software name \*\* is released under the [**MIT License**][mit_license].
 
 # Contribute
 
-We would love to see you contribute to RudderStack. Get more information on how to contribute [here](CONTRIBUTING.md).
+We would love to see you contribute to RudderStack. Get more information on how to contribute [**here**](CONTRIBUTING.md).
 
 # Follow Us
 
-- [RudderStack Blog][rudderstack-blog]
-- [Slack][slack]
-- [Twitter][twitter]
-- [LinkedIn][linkedin]
-- [dev.to][devto]
-- [Medium][medium]
-- [YouTube][youtube]
-- [HackerNews][hackernews]
-- [Product Hunt][producthunt]
-
-# \*\* Optional \*\* :clap:  Our Supporters
-
-\*\* Update the repo names below. \*\*<br />
-
-[![Stargazers repo roster for @rudderlabs/rudder-server](https://reporoster.com/stars/rudderlabs/rudder-repo-template)](https://github.com/rudderlabs/rudder-repo-template/stargazers)
-[![Forkers repo roster for @rudderlabs/rudder-server](https://reporoster.com/forks/rudderlabs/rudder-repo-template)](https://github.com/rudderlabs/rudder-repo-template/network/members)
+- [**RudderStack blog**][rudderstack-blog]
+- [**Slack**][slack]
+- [**Twitter**][twitter]
+- [**LinkedIn**][linkedin]
+- [**dev.to**][devto]
+- [**Medium**][medium]
+- [**YouTube**][youtube]
+- [**HackerNews**][hackernews]
+- [**Product Hunt**][producthunt]
 
 <!----variables---->
 
-[slack]: https://resources.rudderstack.com/join-rudderstack-slack
+[slack]: https://rudderstack.com/join-rudderstack-slack-community
 [twitter]: https://twitter.com/rudderstack
 [linkedin]: https://www.linkedin.com/company/rudderlabs/
 [devto]: https://dev.to/rudderstack
