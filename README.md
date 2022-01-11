@@ -1,62 +1,43 @@
-<p align="center"><a href="https://rudderstack.com"><img src="https://user-images.githubusercontent.com/59817155/126267034-ae9870b7-9137-4f45-be65-d621b055a972.png" alt="RudderStack - Customer Data Platform for Developers" height="50"/></a></p>
-<h1 align="center"></h1>
-<p align="center"><b>Customer Data Platform for Developers</b></p>
-<br/>
+<p align="center">
+  <a href="https://rudderstack.com/">
+    <img src="https://user-images.githubusercontent.com/59817155/121357083-1c571300-c94f-11eb-8cc7-ce6df13855c9.png">
+  </a>
+</p>
 
+<p align="center"><b>The Customer Data Platform for Developers</b></p>
 
-# \*\* Repo Name \*\*
+<p align="center">
+  <b>
+    <a href="https://rudderstack.com">Website</a>
+    ·
+    <a href="">Documentation</a>
+    ·
+    <a href="https://rudderstack.com/join-rudderstack-slack-community">Community Slack</a>
+  </b>
+</p>
 
-\*\* Repo description \*\*
-|:------|
+---
 
-> Questions? Start a conversation on our [**Slack channel**][slack].
+# \*\*Repo Name\*\*
 
-# Why Use \*\* Software Name \*\*
+\*\*Repo description\*\*
 
-\*\* Describe what the software does. \*\*
+## Overview
 
-# Key Features
+\*\*Describe what the software does.\*\*
 
-\*\* Describe the key features, if necessary. \*\*
+## Features
 
-# Get Started
+\*\*Describe the key features, if necessary.\*\*
 
-\*\* Describe how to use the software. \*\*
+## Getting started
 
-# License
+\*\*Describe how to use the software.\*\*
 
-The RudderStack \*\* software name \*\* is released under the [**MIT License**][mit_license].
-
-# Contribute
+## Contribute
 
 We would love to see you contribute to RudderStack. Get more information on how to contribute [**here**](CONTRIBUTING.md).
 
-# Follow Us
+## License
 
-- [**RudderStack blog**][rudderstack-blog]
-- [**Slack**][slack]
-- [**Twitter**][twitter]
-- [**LinkedIn**][linkedin]
-- [**dev.to**][devto]
-- [**Medium**][medium]
-- [**YouTube**][youtube]
-- [**HackerNews**][hackernews]
-- [**Product Hunt**][producthunt]
-
-<!----variables---->
-
-[slack]: https://rudderstack.com/join-rudderstack-slack-community
-[twitter]: https://twitter.com/rudderstack
-[linkedin]: https://www.linkedin.com/company/rudderlabs/
-[devto]: https://dev.to/rudderstack
-[medium]: https://rudderstack.medium.com/
-[youtube]: https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw
-[rudderstack-blog]: https://rudderstack.com/blog/
-[hackernews]: https://news.ycombinator.com/item?id=21081756
-[producthunt]: https://www.producthunt.com/posts/rudderstack
-[mit_license]: https://opensource.org/licenses/MIT
-[agplv3_license]: https://www.gnu.org/licenses/agpl-3.0-standalone.html
-[sspl_license]: https://www.mongodb.com/licensing/server-side-public-license
-[config-generator]: https://github.com/rudderlabs/config-generator
-[config-generator-section]: https://github.com/rudderlabs/rudder-server/blob/master/README.md#rudderstack-config-generator
-[rudder-logo]: https://repository-images.githubusercontent.com/197743848/b352c900-dbc8-11e9-9d45-4deb9274101f
+The RudderStack \*\*software name\*\* is released under the [**MIT License**](https://opensource.org/licenses/MIT).
