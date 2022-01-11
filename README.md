@@ -10,7 +10,7 @@
   <b>
     <a href="https://rudderstack.com">Website</a>
     ·
-    <a href="https://rudderstack.com/docs/stream-sources/rudderstack-sdk-integration-guides/rudderstack-javascript-sdk/">Documentation</a>
+    <a href="">Documentation</a>
     ·
     <a href="https://rudderstack.com/join-rudderstack-slack-community">Community Slack</a>
   </b>
@@ -30,14 +30,14 @@
 
 \*\*Describe the key features, if necessary.\*\*
 
-## Getting Started
+## Getting started
 
 \*\*Describe how to use the software.\*\*
 
-## Contributing
+## Contribute
 
-We would love to see you contribute to RudderStack. Get more information on how to contribute [here](CONTRIBUTING.md).
+We would love to see you contribute to RudderStack. Get more information on how to contribute [**here**](CONTRIBUTING.md).
 
 ## License
 
-The RudderStack \*\*software name\*\* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The RudderStack \*\*software name\*\* is released under the [**MIT License**](https://opensource.org/licenses/MIT).
